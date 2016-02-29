@@ -8,7 +8,7 @@ See: [Demo](http://codepen.io/kuyseng/pen/GpxNoV)
 How to use
 ----------
 
-To get started, download the file `query.image_upload_previewer.js` and copy to your website/application directory.
+To get started, download the file `jquery.image_upload_previewer.js` and copy to your website/application directory.
 Load it in the <head> section of your HTML document. Make sure you also add the jQuery library.
 
     <head>
